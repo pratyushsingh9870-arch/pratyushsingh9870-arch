@@ -1,16 +1,17 @@
-## Hi there 👋
-
-<!--
-**pratyushsingh9870-arch/pratyushsingh9870-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Pratyush Singh 👋
+   
+   **Computer Vision Engineer | ML Developer | Building AI Solutions**
+   
+    Currently working on: Medical imaging AI & Real-time object detection
+    Achieved: 92% accuracy on diabetic retinopathy detection
+    Passionate about: Computer Vision, Deep Learning, Healthcare AI
+   
+   ### Tech Stack
+   ![Python](badge) ![TensorFlow](badge) ![PyTorch](badge) ![OpenCV](badge)
+   
+ 
+   ### Featured Projects
+   -  [Diabetic Retinopathy Detector](https://drive.google.com/file/d/1CHGE30EliBziwKUGKLkCioNqrhH-miJz/view?usp=drive_link) - 92% accuracy on 3000+ retinal images
+   -[Smart Waste Segregation](https://github.com/pratyushsingh9870-arch/Project/blob/main/waste_segregation_using_image_classification.ipynb) - YOLOv8-based waste classification with 94% mAP
+   
+   📫 Reach me: pratyushwork9@gmail.com | [LinkedIn](https://www.linkedin.com/in/pratyush9870/)
