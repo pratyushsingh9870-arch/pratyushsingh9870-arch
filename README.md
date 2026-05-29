@@ -12,14 +12,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pratyush_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyush9870/)
 [![Email](https://img.shields.io/badge/Email-pratyushwork9@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratyushwork9@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-pratyushsingh9870--arch-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratyushsingh9870-arch)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
 
 <br/>
 
 <!-- Profile Views & Followers -->
 ![Profile Views](https://komarev.com/ghpvc/?username=pratyushsingh9870-arch&color=58a6ff&style=flat-square&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/pratyushsingh9870-arch?style=flat-square&color=58a6ff&label=Followers)
-[![wakatime](https://wakatime.com/badge/user/pratyushsingh9870-arch.svg?style=flat-square)](https://wakatime.com/@pratyushsingh9870-arch)
+
 
 </div>
 
