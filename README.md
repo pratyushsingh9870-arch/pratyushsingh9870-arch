@@ -4,11 +4,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Pratyush%20Singh&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Full%20Stack%20AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20LLM%20Orchestration&descAlignY=58&descSize=18&descColor=8b949e&animation=fadeIn" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI+that+actually+ships+;FastAPI+%2B+React+%2B+LLMs+%3D+Production+AI;Computer+Vision+Engineer+%7C+92%25+accuracy;Open+to+Internships+%26+AI%2FML+Roles+2025–26" alt="Typing SVG" />
-</a>
-
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+AI+Engineer;FastAPI+%7C+React+%7C+LLMs;Computer+Vision+Developer;Open+to+Internships+and+AI%2FML+Roles" />
+</p>
 
 <!-- Profile Badges Row -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pratyush_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratyushsingh)
